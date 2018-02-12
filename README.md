@@ -10,3 +10,4 @@ This repository contains work done as week long assignments during Spring 2018 i
 | 2 | Interrupts and Timers |
 | 3 | PWM and Interfacing Servo Motors |
 | 4 | Analog to Digital Converter (ADC) and Serial Communication |
+| 5 | Interfacing Graphics LCD |
